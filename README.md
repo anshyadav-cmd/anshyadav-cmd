@@ -18,7 +18,7 @@
 <img alt="Workspace" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" align="right" width="30%" height="50%"/><br>
 👨‍🎓 I'm currently pursuing my bachelors in Computer and Science Engineering from CDGI, Indore . <br> <br>
 🤯 My interests are Open-source contribution, Competitive Programming, and Software Development. <br> <br>
-🌱 I'm working with Java, C/C++, Android, MySQL Atlas. <br> <br>
+🌱 I'm working with Java, C/C++, Android, MySQL. <br> <br>
 📧 Feel free to contact me regarding anything. <br> <br>
 
 ## Practicing at ⚙️ 
