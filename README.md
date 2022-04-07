@@ -25,3 +25,19 @@
 <a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" align="right" width="155" height="125"></a>
 🤧 [LeetCode](https://leetcode.com/anshyadav-cmd/)<br> <br>
 🫥 [HackerRank](https://www.hackerrank.com/_Noob_404_Coder_) <br><br>
+
+## Stats 📊
+
+<a href="https://github.com/anshyadav-cmd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshyadav-cmd&theme=aura&&hide_border=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anshyadav-cmd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshyadav-cmd&hide_border=true&layout=compact&theme=aura" />
+</a>
+<a href="https://github.com/anshyadav-cmd">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshyadav-cmd&theme=tokyonight_duo&hide_border=true&show_icons=true&include_all_commits=true" />
+</a>
+
+## Contribution Graph 📊
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anshyadav-cmd&theme=redical&hide_border=true)
+
