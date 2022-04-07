@@ -22,7 +22,7 @@
 📧 Feel free to contact me regarding anything. <br> <br>
 
 ## Practicing at ⚙️ 
-<a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" align="right" width="155" height="125"></a>
+<a href="https://www.linkedin.com/in/brajbliss/"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif?raw=true" align="right" width="175" height="145"></a>
 🤧 [LeetCode](https://leetcode.com/anshyadav-cmd/)<br> <br>
 🫥 [HackerRank](https://www.hackerrank.com/_Noob_404_Coder_) <br><br>
 
