@@ -41,3 +41,7 @@
 ## Contribution Graph 📊
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anshyadav-cmd&theme=redical&hide_border=true)
 
+## Snake Eating my Contribution 🐍
+
+![snake gif](https://github.com/anshyadav-cmd/anshyadav-cmd/blob/output/github-contribution-grid-snake.svg)
+
