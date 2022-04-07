@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @anshyadav-cmd / Ansh Yadav
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Andriod
-- 💞️ I’m looking to collaborate on Java Related Projects
-- 📫 How to reach me email:- anshyadav4244@gmail.com
+<div align="center">
+  
+# Ohayou(Hi)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D2C3E4&vCenter=true&width=250&lines=Good+to+have+you+here;Welcome+to+my+space!!;)](https://git.io/typing-svg)
+ 
+![Alt Text](https://c.tenor.com/VTHPjZZTvI4AAAAC/luffy-luffy-d-monkey.gif)
 
-<!---
-anshyadav-cmd/anshyadav-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
