@@ -29,13 +29,13 @@
 ## Stats 📊
 
 <a href="https://github.com/anshyadav-cmd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshyadav-cmd&theme=aura&&hide_border=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshyadav-cmd&theme=aura&&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anshyadav-cmd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshyadav-cmd&hide_border=true&layout=compact&theme=aura" />
 </a>
 <a href="https://github.com/anshyadav-cmd">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshyadav-cmd&theme=tokyonight_duo&hide_border=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshyadav-cmd&theme=tokyonight_duo&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ## Contribution Graph 📊
