@@ -42,10 +42,3 @@ I am an enthusiastic full-stack web developer with a solid background. Curiousit
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshyadav-cmd&theme=tokyonight_duo&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&include_all_commits=true" />
 </a>
 
-## Contribution Graph 📊
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anshyadav-cmd&theme=redical&hide_border=true)
-
-## Snake Eating my Contribution 🐍
-
-![snake gif](https://github.com/anshyadav-cmd/anshyadav-cmd/blob/output/github-contribution-grid-snake.svg)
