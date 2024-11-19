@@ -18,9 +18,10 @@
 # About Me 🙋‍♂️
 
 <img alt="Workspace" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" align="right" width="30%" height="50%"/>.
-I am an enthusiastic full-stack web developer with a solid background. Curiousity and a drive to build useful, dynamic, and engaging online apps have propelled me forward in the field of web development. I'm committed to developing my knowledge and abilities to create seamless digital experiences, from front-end design to back-end functionality.
-
-📧 Feel free to contact me regarding anything. <br><br>
+Hi there! 👋
+I'm a freelance React and Next.js developer passionate about creating modern, scalable, and user-centric web applications. With a knack for problem-solving and attention to detail, I enjoy turning ideas into seamless digital experiences. <br><br>
+🚀 Open for Opportunities: Freelance projects, collaborations, and tech discussions
+📫 Let's connect and build something amazing together! <br><br>
 
 <br>
 
