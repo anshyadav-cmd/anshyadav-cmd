@@ -10,7 +10,7 @@
 <br>
 
 # 🌐Socials
-
+[![Portfolio](https://img.shields.io/badge/%20Portfolio%20-8A2BE2)](https://anshyadav.live)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anshyadav2002/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshyadav2002/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshyadav305)
 
 <br>
@@ -33,13 +33,13 @@ I'm a freelance React and Next.js developer passionate about creating modern, sc
 
 ## Stats 📊
 
-<a href="https://github.com/anshyadav-cmd">
+<!-- <a href="https://github.com/anshyadav-cmd">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshyadav-cmd&theme=aura&&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
+</a> -->
 <a href="https://github.com/anshyadav-cmd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshyadav-cmd&count_private=true&hide_border=true&layout=compact&theme=aura" />
 </a>
-<a href="https://github.com/anshyadav-cmd">
+<!-- <a href="https://github.com/anshyadav-cmd">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshyadav-cmd&theme=tokyonight_duo&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&include_all_commits=true" />
-</a>
+</a> -->
 
